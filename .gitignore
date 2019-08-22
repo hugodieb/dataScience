@@ -2,3 +2,4 @@
 .idea/*
 node_module
 package-lock.json
+frontend/node_modules
